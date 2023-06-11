@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="player_1_points">Player 1 Points:</string>
+    <string name="player_2_points">Player 2 Points:</string>
+    <string name="restart">Restart</string>
+    <string name="play_with_computer">Play with computer</string>
+    <string name="play_with_your_friend">Play with your friend</string>
+    <string name="font_bradobrei">fonts/bradobrei.ttf</string>
+    <string name="back">Back</string>
+</resources>
